@@ -1,0 +1,65 @@
+@media only screen and (max-width: 540px) and (min-width: 270px)  {
+    .container{
+        width: 95%;
+        height: 400px;
+        
+    }
+    .container-answer{
+        width: 97%;
+        height: 370px;
+       
+    }
+    .option {
+        width: 65%;
+    }
+}
+@media only screen and (max-width: 810px) and (min-width: 541px) {
+    .container{
+        width: 60%;
+        height: 400px;  
+    }
+    .container-answer{
+        width: 63%;
+        height: 370px;
+       
+    }
+    .option {
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 970px) and (min-width: 811px) {
+    .container{
+        width: 50%;
+        height: 380px;
+      
+    }
+    .container-answer{
+        width: 44%;
+        height: 370px;
+       
+    }
+}
+@media only screen and (max-width: 1250px) and (min-width: 971px) {
+    .container{
+        width: 40%;
+        height: 390px;
+      
+    }
+    .container-answer{
+        width: 36%;
+        height: 370px;
+       
+    }
+}
+@media only screen and (max-width: 1439px) and (min-width: 1250px) {
+    .container{
+        width: 35%;
+        height: 390px;
+      
+    }
+    .container-answer{
+        width: 30%;
+        height: 370px;
+       
+    }
+}
